@@ -9,7 +9,6 @@ This repository contains the submission for HackDuke’21 (Code-for-good) for th
 The number of people experiencing this disorder may increase as individuals recover from the widespread isolation imposed by the COVID-19 pandemic.</br>
 
 </br>
-</br>
 
 ![image](https://user-images.githubusercontent.com/72935128/139510770-cf3520b0-c01a-4074-bd70-4fdbdd01cd67.png)
 
