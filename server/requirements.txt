@@ -1,0 +1,15 @@
+os
+json
+jsonify
+flask
+flask_cors
+Werkzeug
+gevent
+gunicorn
+nltk
+re
+string
+numpy
+tensorflow==2.4.1
+keras==2.4.0
+textblob
