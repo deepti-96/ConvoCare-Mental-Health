@@ -10,8 +10,8 @@ The number of people experiencing this disorder may increase as individuals reco
 
 </br>
 </br>
-![image](https://user-images.githubusercontent.com/72935128/139510738-fbcd391a-b8f0-4456-858f-3b48ddf7a537.png)
 
+![image](https://user-images.githubusercontent.com/72935128/139510770-cf3520b0-c01a-4074-bd70-4fdbdd01cd67.png)
 
 ## Proposed Solution
 
