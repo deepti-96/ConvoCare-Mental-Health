@@ -1,4 +1,4 @@
-# ConvoCare - AI-Powered Mental Health Platform
+# ConvoCare - AI Powered Mental Health Platform
 
 > Built at **HackDuke 2021** (Code for Good - Health Track) · A semi-monitored mental health app for university students combining NLP, LSTM-based sentiment analysis, and privacy-first design.
 
